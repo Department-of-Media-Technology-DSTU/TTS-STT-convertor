@@ -1,0 +1,25 @@
+body {
+    background-color: #d4e5ff !important;
+}
+
+* {
+    font-family: Montserrat, sans-serif;
+}
+
+.main {
+    background-color: #d4e5ff;
+}
+
+article {
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+button {
+    display: inline-block;
+}
+
+.mr-2 {
+    margin-right: 0.5rem;
+}
